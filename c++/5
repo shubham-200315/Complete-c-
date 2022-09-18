@@ -1,0 +1,38 @@
+atm code chef
+
+
+
+
+
+#include <iostream>
+
+using namespace std;
+
+
+
+int main() {
+
+    int x,y;
+
+    double a=y;
+
+    cin>>x>>a;
+
+    if(x+0.50<=a&&x%5==0)
+
+    cout<<a-x-0.50<<endl;
+
+    else
+
+    cout<<a<<endl;
+
+    
+
+	// your code goes here
+
+	
+
+	return 0;
+
+}
+
