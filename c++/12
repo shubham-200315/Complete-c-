@@ -1,0 +1,56 @@
+ mahasena code chef
+
+#include <iostream>
+
+using namespace std;
+
+
+
+int main() {
+
+int N,x=0,y=0;
+
+// int A[] = {n};
+
+cin>>N;
+
+int A[N];
+
+for(int i=1;  i<=N; i++)
+
+{
+
+    cin>>A[i];
+
+    if(A[i]%2==0)
+
+    {
+
+    y++;
+
+    }
+
+    else{
+
+        x++;
+
+    }
+
+}
+
+if(y>x){
+
+    cout<<"READY FOR BATTLE"<<endl;
+
+}// your code goes here
+
+else{
+
+    cout<<"NOT READY"<<endl;
+
+}
+
+	return 0;
+
+}
+
