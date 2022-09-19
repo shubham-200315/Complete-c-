@@ -1,0 +1,42 @@
+ is the score consistent code chef
+
+#include <iostream>
+
+using namespace std;
+
+
+
+int main() {
+
+    int a,b,c,d,t;
+
+    cin>>t;
+
+    for(int i=1; i<=t; i++)
+
+    {
+
+        cin>>a>>b>>c>>d;
+
+        if(c>a&&d>=b||c>=a&&d>b||c==a&&d==b){
+
+            cout<<"possible"<<endl;
+
+        }
+
+       
+
+        else{
+
+            cout<<"impossible"<<endl;
+
+        }
+
+    }
+
+	// your code goes here
+
+	return 0;
+
+}
+
