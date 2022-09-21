@@ -1,0 +1,15 @@
+finding square roots code chef
+
+#include <iostream>
+#include <math.h>
+using namespace std;
+int main()
+{
+  int t,n;
+  cin>>t;
+  for(int i=1;i<=t;i++){
+      cin>>n;
+      cout<<round(sqrt(n))<<endl;
+  }
+    return 0;
+}
