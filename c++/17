@@ -1,0 +1,50 @@
+ chef and water bottle code chef
+
+#include <iostream>
+
+using namespace std;
+
+
+
+int main() {
+
+     int n,x,k,t;
+
+     cin>>t;
+
+     for(int i=1;i<=t;i++){
+
+         cin>>n>>x>>k;
+
+         int z= 0;
+
+         z=k/x;
+
+         if(z>=n)
+
+         {
+
+             
+
+             
+
+             cout<< n <<endl;
+
+         }
+
+         else{
+
+             cout<<z<<endl;
+
+         }
+
+     }
+
+    
+
+	// your code goes here
+
+	return 0;
+
+}
+
