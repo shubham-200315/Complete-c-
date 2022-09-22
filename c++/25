@@ -1,0 +1,44 @@
+ pass or fail code chef
+
+#include <iostream>
+
+using namespace std;
+
+
+
+int main() {
+
+    int t,n,x,p,y;
+
+    cin>>t;
+
+    for(int i=1;i<=t;i++)
+
+    {
+
+        cin>>n>>x>>p;
+
+        y=x*3;
+
+        if((y-(n-x))>=p)
+
+        {
+
+            cout<<"PASS"<<endl;
+
+        }
+
+        else{
+
+            cout<<"FAIL"<<endl;
+
+        }
+
+    }
+
+	// your code goes here
+
+	return 0;
+
+}
+
