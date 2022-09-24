@@ -1,0 +1,32 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int t,n;
+    int s[n];
+    int d[n];
+    cin>>t;
+for(int i=1;i<=t;i++)
+{
+    cin>>n;
+    for(int j=1;j<=n;j++){
+        cin>>s[j];
+        
+    }
+    for(int k=1;k<=n;k++){
+        cin>>d[k];
+    }
+    int r=0;
+for(int c=1;c<=n;c++){
+    int diff=s[c]-d[c];
+    if(diff==0)
+    {
+        r++;
+        
+    }
+}
+cout<<r<<endl;
+}
+	// your code goes here
+	return 0;
+}
