@@ -9,6 +9,7 @@ int main()
   cin>>t;
   for(int i=1;i<=t;i++){
       cin>>n;
+    /* find square root of number*/
       cout<<round(sqrt(n))<<endl;
   }
     return 0;
