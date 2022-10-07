@@ -12,6 +12,6 @@ int main() {
     {
         cout<<(n1+n2)<<endl;
     }
-	// your code goes here
+	
 	return 0;
 }
