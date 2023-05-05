@@ -83,3 +83,13 @@ Node* createParentMapping(Node* root, int target, map<Node*, Node*> &nodeToParen
         return ans;
         
     }
+
+
+
+
+
+
+
+
+https://practice.geeksforgeeks.org/problems/burning-tree/1
+
