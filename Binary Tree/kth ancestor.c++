@@ -45,3 +45,16 @@ int kthAncestor(Node *root, int k, int node)
         return ans->data;
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+https://practice.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1
