@@ -23,3 +23,7 @@ bool validateBST(BinaryTreeNode<int> *root) {
     
     return isBST(root, INT_MIN, INT_MAX);
 }
+
+
+
+https://www.codingninjas.com/codestudio/problems/validate-bst_799483?leftPanelTab=1
