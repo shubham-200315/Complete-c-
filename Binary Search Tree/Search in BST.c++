@@ -15,3 +15,8 @@ bool searchInBST(BinaryTreeNode<int> *root, int x) {
             searchInBST(root->right, x);
         }
     }
+
+
+
+
+https://www.codingninjas.com/codestudio/problems/search-in-bst_1402878?leftPanelTab=1
