@@ -63,3 +63,15 @@ vector<int> findMedian(vector<int> &arr, int n){
 	}
 	return ans;
 }
+
+
+
+
+
+
+
+
+
+
+
+https://www.codingninjas.com/codestudio/problems/median-in-a-stream_975268?leftPanelTab=1&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar
