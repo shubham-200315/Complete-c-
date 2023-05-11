@@ -26,13 +26,6 @@ void solve(int x, int y, vector<vector<int>> &arr, int n, vector<string> &ans, v
         solve( x+1, y, arr,n, ans, vis, path+ 'D');
         vis[x][y]=0;
     }
-    //up
-     if(isSafe(x-1, y, vis, arr, n))
-    {
-        vis[x][y] =1;
-        solve( x-1, y, arr,n, ans, vis, path+ 'U');
-        vis[x][y]=0;
-    }
     //left
      if(isSafe(x, y-1, vis, arr, n))
     {
@@ -47,6 +40,14 @@ void solve(int x, int y, vector<vector<int>> &arr, int n, vector<string> &ans, v
         solve( x, y+1, arr,n, ans, vis, path+ 'R');
          vis[x][y]=0;
     }
+    //up
+     if(isSafe(x-1, y, vis, arr, n))
+    {
+        vis[x][y] =1;
+        solve( x-1, y, arr,n, ans, vis, path+ 'U');
+        vis[x][y]=0;
+    }
+    
    
 }
 
@@ -61,6 +62,11 @@ vector < string > searchMaze(vector < vector < int >> & arr, int n) {
     solve(0,0,arr,n,ans, visited,path);
     return ans;
 }
+
+
+
+
+
 
 
 
