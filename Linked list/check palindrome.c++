@@ -62,3 +62,10 @@ private:
    middle->next = reverse(temp);
    return true;
     }
+
+
+
+
+
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUhreXZwSVZmV1R2Sy1WOElCTHVvNUhib01hUXxBQ3Jtc0tsYkwxQURzSzBVT0Z4dmdTVlFHVno4bHFnbmEwalQ2bFczemRNTTBKSmgwbVpteFBVLWo3eEJESHZ1NUZkSzdPU1lDcm5pOWtYLVRzLVNnYlJHdEJZeFRLb2w1MHlWbFVBMUZlQmxYYWVhRW5WTVctdw&q=https%3A%2F%2Fpractice.geeksforgeeks.org%2Fproblems%2Fcheck-if-linked-list-is-pallindrome%2F1%2F&v=aD7mBVnKFEU
