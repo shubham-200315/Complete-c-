@@ -24,3 +24,10 @@ while(curr->next!=NULL)
 return head;
 
 }
+
+
+
+
+
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjBxRmZUM3dGYzVCaVMtRVV3eUR0QzFlWVJYUXxBQ3Jtc0trNk5QdHZjelRqMGpEOGJiaV9fVlpZeTVoT3NZTFZqaXg5NWhGaDFMRlA5am83blBoOWVmLTU3eWh6Tk9QeWtkVHBhSW41Z2ZVaER0YXZud25pN2FuVDdJRVNVdzREM1BoVkRUZ0NHT08xdENGZHBQUQ&q=https%3A%2F%2Fbit.ly%2F3rjMQC5&v=7pgs-wT5d4c
