@@ -83,3 +83,9 @@
         
         //Write your code here
     }
+
+
+
+
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWZ4Y25pRkZJbG1FVjJZTmJTZHREdDFuWkREQXxBQ3Jtc0tsaFYyUFE1VGRHWlNMd0xXeGhkSkp5UDVkTnBJcDdVdHBaTzhheUJhVTZBU3RUclhnbEhuZlAzcW5LN3ZNVEZXcFhuSHl4ZHNTa0FjMUtqMERZS3oxR3NIN2FILV9sTHpWUVl0NnVXaF96aGl4QTRYUQ&q=https%3A%2F%2Fpractice.geeksforgeeks.org%2Fproblems%2Fclone-a-linked-list-with-next-and-random-pointer%2F1&v=83mPr0i56Gg
