@@ -70,3 +70,16 @@ node* mergeSort(node *head) {
      node* result = merge(left, right);
      return result;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBPMVVHR1JZN01oQ1o3UWUxT0VuVVd2LTNaQXxBQ3Jtc0ttSGFReldXOWJEamR3UnFOQlhoNU5NM3JGeldHNjdTc2hwTzB6VF9kc1N2ZDFUYkFuMGp0czlVZ1h4T2sxV2pzcEJ2OE5lT2xkZEp4S3lzTjF0aEowakh1bW5KNTJoOTkxNFU4Ylg3ck1FQXd6aGVBMA&q=https%3A%2F%2Fbit.ly%2F3rfFdfV&v=ogmBt6f9hw8
